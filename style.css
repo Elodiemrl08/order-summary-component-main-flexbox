@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background-image: url("/images/pattern-background-desktop.svg");
+  background-color: rgb(225, 228, 255);
+  height: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.body-container {
+  margin: 0;
+  padding: 0;
+}
